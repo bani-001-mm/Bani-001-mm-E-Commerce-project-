@@ -1,0 +1,5 @@
+[
+  {"code":"AURA10","type":"fixed","value":10.00,"description":"$10 Store Credit","usesCount":0},
+  {"code":"FREESHIP","type":"fixed","value":15.00,"description":"Free Shipping Discount","usesCount":0},
+  {"code":"SPRING20","type":"percentage","value":20.00,"description":"20% Spring Discount","usesCount":1}
+]
